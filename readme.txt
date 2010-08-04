@@ -32,7 +32,7 @@ More info here: [http://myfoursquare.net/wordpress](http://myfoursquare.net "")
 [http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
 
 == Screenshots ==
-[See it in action here:](http://myfoursquare.net/ "")
+[See it in action here: http://myfoursquare.net/](http://myfoursquare.net/ "")
 
 == Changelog ==
 * [See http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
