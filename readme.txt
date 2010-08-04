@@ -5,6 +5,8 @@ Requires at least: 2.6
 Tested up to: 3.0
 Stable tag: 1.0.0
 
+My Foursquare makes it easy to show off your Foursquare badges and mayorships on your Wordpress blog.
+
 == Description ==
 My Foursquare makes it easy to show off your Foursquare badges and mayorships on your Wordpress blog. My Foursquare is also available as a Facebook app and an embed code so you can use it on any website.
 
