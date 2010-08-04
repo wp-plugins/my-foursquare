@@ -15,7 +15,7 @@ My Foursquare shows up as a widget in your Wordpress sidebar. You can customize 
 More info here: [http://myfoursquare.net/wordpress](http://myfoursquare.net "")
 
 == Installation ==
-* Download the plugin from the Wordpress plugin directory: [http://wordpress.org/extend/plugins/my-foursquare/](http://wordpress.org/extend/plugins/my-foursquare/ "")
+* Download the plugin from the Wordpress plugin directory:<br/>[http://wordpress.org/extend/plugins/my-foursquare/](http://wordpress.org/extend/plugins/my-foursquare/ "")
 * Go to your Wordpress dashboard. Choose Add New plugin, then Upload the plugin .zip. Click install now, then Activate.
 * Go to your dashboard and select Appearances/Widgets. Locate the My Foursquare widget, drag it into your sidebar, and enter your Foursquare email and password.
 * Customize the widget appearance by adjusting the widget settings in the Settings box. 
@@ -26,17 +26,16 @@ More info here: [http://myfoursquare.net/wordpress](http://myfoursquare.net "")
 [http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
 
 = Where can I make a feature request? =
-[http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
-Click the "feedback" tab on right hand side of page.
+[http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")<br/>Click the "feedback" tab on right hand side of page.
 
 = Where can I get support? =
 [http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
 
 == Screenshots ==
-
+[See it in action here:](http://myfoursquare.net/wordpress "")
 
 == Changelog ==
-* See [http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
+* [See http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
 
 == Upgrade Notice ==
 = 1.0.0 = This is the initial install.
