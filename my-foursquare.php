@@ -1,7 +1,29 @@
 <?php
 /*
 Plugin Name: My Foursquare
+Plugin URI: http://myfoursquare.net/wordpress
+Description: My Foursquare makes it easy to show off your Foursquare badges and mayorships on your WordPress blog.
+Version: 1.0.0
+Author: David McKinney
+Author URI: http://myfoursquare.net
+License: GPL2
+
+Copyright 2010  David McKinney  (email : dave@myfoursquare.net)
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as 
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
+
 include "lib/foursquareapi.php";
 include "lib/xml2array.class.php";
 class WPFoursquareBadges {
