@@ -10,7 +10,7 @@ My Foursquare makes it easy to show off your Foursquare badges and mayorships on
 == Description ==
 My Foursquare makes it easy to show off your Foursquare badges and mayorships on your Wordpress blog. My Foursquare is also available as a Facebook app and an embed code so you can use it on any website.
 
-My Foursquare shows up as a widget in your Wordpress sidebar. You can customize the widget to display your badges, mayorships, last checkin venue, and the appearance of the widget so it fits in with your blog.
+My Foursquare shows up as a widget in your Wordpress sidebar. You can customize the widget to display your badges, mayorships, last checkin venue, and a map of your last checkin. The widget automatically uses the same font and colours of your blog.
 
 More info here: [http://myfoursquare.net/wordpress](http://myfoursquare.net "")
 
@@ -35,7 +35,7 @@ More info here: [http://myfoursquare.net/wordpress](http://myfoursquare.net "")
 See it in action here: [http://myfoursquare.net/](http://myfoursquare.net/ "")
 
 == Changelog ==
-* [See http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
+* 1.0.0. The initial release.
 
 == Upgrade Notice ==
 = 1.0.0 = This is the initial install.
