@@ -35,7 +35,5 @@ More info here: [http://myfoursquare.net/wordpress](http://myfoursquare.net "")
 See it in action here: [http://myfoursquare.net/](http://myfoursquare.net/ "")
 
 == Changelog ==
-* 1.0.0. The initial release.
-
-== Upgrade Notice ==
-= 1.0.0 = This is the initial install.
+* 1.0.1 (05/08/2010) Made google map component easier to use. 
+* 1.0.0 (04/08/2010) The first release.
