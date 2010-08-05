@@ -73,7 +73,7 @@ $title = isset($option['title']) ? $option['title'] : "My Foursquare";
 	<tr>
 		<td> 
 		      <input name="foursquare[fs_confirm]" type="checkbox" id="fs_confirm" <?php if($option['fs_confirm']){?>checked="checked"<?php }?>/>
-		      <a href="http://www.myfoursquare.net/wp-content/themes/coffeebreak/terms.html">
+		      <a href="http://www.myfoursquare.net/terms">
 				Agree to Terms of Use
 		      </a>
   		  </td>
