@@ -5,13 +5,13 @@ $title = isset($option['title']) ? $option['title'] : "My Foursquare";
 <table>
 	<tr>
 		<td>
-			<br><b>Foursquare login information </b><br> 
+			<br><b>Settings </b><br> 
 		</td>
 	</tr>
 	<tr><td>&nbsp;</td></tr>
 	<tr>
 		<td>
-			Foursquare Username : 
+			Foursquare Username: 
 		</td>
 	</tr>
 	<tr>
@@ -22,7 +22,7 @@ $title = isset($option['title']) ? $option['title'] : "My Foursquare";
 	<tr><td>&nbsp;</td></tr>
 	<tr>
 		<td>
-			Foursquare Password : 
+			Foursquare Password: 
 		</td>
 	</tr>
 	<tr>
