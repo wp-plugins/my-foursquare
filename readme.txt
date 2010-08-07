@@ -26,7 +26,7 @@ More info here: [http://myfoursquare.net](http://myfoursquare.net "")
 [http://myfoursquare.net/wordpress](http://myfoursquare.net "")
 
 = Where can I make a feature request? =
-[http://myfoursquare.uservoice.com/forums/63561-my-foursquare?lang=en&utm_campaign=Widgets&utm_content=tab-widget&utm_medium=widget&utm_source=myfoursquare.uservoice.com "")
+[http://myfoursquare.uservoice.com/users/9168733-my-foursquare](http://myfoursquare.uservoice.com/users/9168733-my-foursquare "")
 
 = Where can I get support? =
 [http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
