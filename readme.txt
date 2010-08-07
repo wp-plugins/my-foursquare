@@ -12,7 +12,7 @@ My Foursquare makes it easy to show off your Foursquare badges and mayorships on
 
 My Foursquare shows up as a widget in your Wordpress sidebar. You can customize the widget to display your badges, mayorships, last checkin venue, and a map of your last checkin. The widget automatically uses the same font and colours of your blog.
 
-More info here: [http://myfoursquare.net/wordpress](http://myfoursquare.net "")
+More info here: [http://myfoursquare.net](http://myfoursquare.net "")
 
 == Installation ==
 * Download the plugin from the Wordpress plugin directory: [http://wordpress.org/extend/plugins/my-foursquare/](http://wordpress.org/extend/plugins/my-foursquare/ "")
@@ -23,10 +23,10 @@ More info here: [http://myfoursquare.net/wordpress](http://myfoursquare.net "")
 
 == Frequently Asked Questions ==
 = Where can I get more info? =
-[http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
+[http://myfoursquare.net/wordpress](http://myfoursquare.net "")
 
 = Where can I make a feature request? =
-[http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
+[http://myfoursquare.uservoice.com/forums/63561-my-foursquare?lang=en&utm_campaign=Widgets&utm_content=tab-widget&utm_medium=widget&utm_source=myfoursquare.uservoice.com "")
 
 = Where can I get support? =
 [http://myfoursquare.net/wordpress](http://myfoursquare.net/wordpress "")
