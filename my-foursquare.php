@@ -39,7 +39,7 @@ class WPFoursquareBadges {
 				update_option('foursquare_option',$_REQUEST['foursquare']);
 				echo '<p><font color=green>Successfully saved!</font></p>';
 			} else
-				echo '<p <font color=red>Please check the agree to term and use</font></p>';
+				echo '<p <font color=red>Please agree to the Terms of Use (checkbox)</font></p>';
 		}
 	}
 	
