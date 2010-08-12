@@ -3,7 +3,7 @@
 Plugin Name: My Foursquare
 Plugin URI: http://myfoursquare.net/wordpress
 Description: My Foursquare makes it easy to show off your Foursquare badges and mayorships on your WordPress blog.
-Version: 1.0.2
+Version: 1.0.3
 Author: My Foursquare
 Author URI: http://myfoursquare.net
 License: GPL2
