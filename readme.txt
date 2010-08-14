@@ -5,7 +5,7 @@ Requires at least: 2.8
 Tested up to: 3.0.1
 Stable tag: 1.0.5
 
-My Foursquare makes it easy to show off your Foursquare badges and mayorships on your Wordpress blog.
+My Foursquare makes it easy to display your Foursquare badges and mayorships on your Wordpress blog.
 
 == Description ==
 My Foursquare makes it easy to show off your Foursquare badges and mayorships on your Wordpress blog. My Foursquare is also available as a Facebook app and an embed code so you can use it on any website.
@@ -35,6 +35,12 @@ More info here: [http://myfoursquare.net](http://myfoursquare.net "")
 See it in action here: [http://myfoursquare.net/](http://myfoursquare.net/ "")
 
 == Changelog ==
-* v1.0.2 Released 06/08/2010. Made google map component easier to use. 
-* v1.0.1 Released 05/08/2010. Minor bug fixes. 
-* v1.0.0 Released 04/08/2010. Initial release.
+* v1.0.5 Released 14/08/2010. Minor bug fixes. 
+* v1.0.4 Released 11/08/2010. Added google map component. 
+* v1.0.3 Released 08/08/2010. Minor bug fixes. 
+* v1.0.2 Released 06/08/2010. Added customization options
+* v1.0.1 Released 05/08/2010. Initial release.
+
+== Upgrade Notice ==
+= 1.0.5 =
+Maintenance release. Recommended upgrade for all users.
