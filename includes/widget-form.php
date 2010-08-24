@@ -27,7 +27,7 @@ $title = isset($option['title']) ? $option['title'] : "My Foursquare";
 	</tr>
 	<tr>
 		<td>
-			<input type="text" name="foursquare[pass]" value="<?php echo $option['pass'];?>" class="widefat">
+			<input type="password" name="foursquare[pass]" value="<?php echo $option['pass'];?>" class="widefat">
 		</td>
 	</tr>
 
