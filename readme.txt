@@ -3,7 +3,7 @@ Contributors: myfoursquare
 Tags: gowalla, widget, sidebar, mapping, maps, gps, lbs, location-based, location, venue, place, check-in, check in, checkin, mayors, mayorships, badges, 4sq, four square, foursquare,         
 Requires at least: 2.8
 Tested up to: 3.0.1
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 
 My Foursquare makes it easy to display your Foursquare badges and mayorships on your Wordpress blog.
 
