@@ -35,6 +35,7 @@ More info here: [http://myfoursquare.net](http://myfoursquare.net "")
 See it in action here: [http://myfoursquare.net/](http://myfoursquare.net/ "")
 
 == Changelog ==
+* v1.0.6 Released 01/09/2010. Minor bug fixes. 
 * v1.0.5 Released 14/08/2010. Minor bug fixes. 
 * v1.0.4 Released 11/08/2010. Added google map component. 
 * v1.0.3 Released 08/08/2010. Minor bug fixes. 
